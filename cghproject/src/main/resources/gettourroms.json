@@ -1,0 +1,1013 @@
+{
+	"response": {
+		"header": {
+			"resultCode": "C00",
+			"resultMsg": "NORMAL SERVICE"
+		},
+		"body": {
+			"totalCount": 162,
+			"items": [
+				{
+					"romsNm": "호텔 인터시티",
+					"romsZip": "34187",
+					"romsAddr": "대전 유성구 온천로 92",
+					"romsDtlAddr": "대전광역시 유성구 봉명동 545-5",
+					"romsRefadNo": "042-600-6000",
+					"romsScl": "240실 한실 : 48 양실 : 156",
+					"romsHmpgAddr": "https://www.hotelinterciti.com/#1",
+					"romsSumm": "호텔 인터시티"
+				},
+				{
+					"romsNm": "호텔 선샤인",
+					"romsZip": "34573",
+					"romsAddr": "대전광역시 동구 동서대로 1700",
+					"romsDtlAddr": "대전 동구 가양동 451-3",
+					"romsRefadNo": "042-620-6500",
+					"romsScl": "55실 양실 55실",
+					"romsHmpgAddr": "http://www.hotelsunshine.kr/",
+					"romsSumm": "호텔 선샤인"
+				},
+				{
+					"romsNm": "경하온천호텔",
+					"romsZip": "34186",
+					"romsAddr": "대전 유성구 온천로101번길 30",
+					"romsDtlAddr": "경하온천호텔",
+					"romsRefadNo": "042-822-5656",
+					"romsScl": "40실 한실 : 29 양실 : 11",
+					"romsHmpgAddr": "http://www.khhotel.com/",
+					"romsSumm": "경하온천호텔"
+				},
+				{
+					"romsNm": "레전드호텔",
+					"romsZip": "34187",
+					"romsAddr": "대전 유성구 계룡로141번길 21",
+					"romsDtlAddr": "레전드호텔",
+					"romsRefadNo": "042-229-8000",
+					"romsScl": "75실 한실 : 24 양실 : 51",
+					"romsHmpgAddr": "http://www.legendhotel.co.kr/kor/index.do",
+					"romsSumm": "레전드호텔"
+				},
+				{
+					"romsNm": "유성관광호텔",
+					"romsZip": "34169",
+					"romsAddr": "대전 유성구 온천로 9",
+					"romsDtlAddr": "유성관광호텔",
+					"romsRefadNo": "042-820-0100",
+					"romsScl": "189실 한실 43 양실 146",
+					"romsHmpgAddr": "https://yousunghotel.com/kor/index.do",
+					"romsSumm": "유성관광호텔"
+				},
+				{
+					"romsNm": "라온호텔(주)",
+					"romsZip": "34187",
+					"romsAddr": "대전 유성구 온천로 88",
+					"romsDtlAddr": "라온호텔",
+					"romsRefadNo": "042-822-0131",
+					"romsScl": "45실 한실 : 11 양실 : 34",
+					"romsHmpgAddr": "http://www.laonhotel.com/",
+					"romsSumm": "라온호텔(주)"
+				},
+				{
+					"romsNm": "대전나무호텔",
+					"romsZip": "34168",
+					"romsAddr": "대전 유성구 온천서로 30-6",
+					"romsDtlAddr": "대전나무호텔",
+					"romsRefadNo": "042-822-3445",
+					"romsScl": "49실 한실 : 2 양실 : 47",
+					"romsHmpgAddr": "www.namoohotel.kr",
+					"romsSumm": "대전나무호텔"
+				},
+				{
+					"romsNm": "레지던스호텔라미아",
+					"romsZip": "35233",
+					"romsAddr": "대전 서구 둔산로51번길 42",
+					"romsDtlAddr": "레지던스호텔라미아",
+					"romsRefadNo": "",
+					"romsScl": "106실 한실 : 3 양실 : 103",
+					"romsHmpgAddr": "http://www.hotellamai.com",
+					"romsSumm": "레지던스호텔라미아"
+				},
+				{
+					"romsNm": "부띠크호텔락희",
+					"romsZip": "35233",
+					"romsAddr": "대전 서구 대덕대로220번길 23",
+					"romsDtlAddr": "부띠크호텔락희",
+					"romsRefadNo": "042-482-0100",
+					"romsScl": "54실 양실 : 54",
+					"romsHmpgAddr": "http://www.hotellacky.com",
+					"romsSumm": "부띠크호텔락희"
+				},
+				{
+					"romsNm": "㈜굿모닝레지던스호텔휴",
+					"romsZip": "35233",
+					"romsAddr": "대전 서구 둔산로73번길 21",
+					"romsDtlAddr": "㈜굿모닝레지던스호텔휴",
+					"romsRefadNo": "042-489-4000",
+					"romsScl": "134실 양실 : 134",
+					"romsHmpgAddr": "http://www.hotelrest.co.kr",
+					"romsSumm": "㈜굿모닝레지던스호텔휴"
+				},
+				{
+					"romsNm": "호텔그레이톤둔산",
+					"romsZip": "35240",
+					"romsAddr": "대전 서구 둔산중로 70",
+					"romsDtlAddr": "호텔그레이톤둔산",
+					"romsRefadNo": "042-483-3100",
+					"romsScl": "211실 한실 : 7 양실 : 204",
+					"romsHmpgAddr": "http://graytone.co.kr",
+					"romsSumm": "호텔그레이톤둔산"
+				},
+				{
+					"romsNm": "베니키아호텔대림",
+					"romsZip": "34839",
+					"romsAddr": "대전 중구 대종로505번길 50",
+					"romsDtlAddr": "대전 중구 선화동 230-6",
+					"romsRefadNo": "042-251-9500",
+					"romsScl": "44실[ 양실:44]",
+					"romsHmpgAddr": "http://www.daelimhotel.com",
+					"romsSumm": "베니키아호텔대림"
+				},
+				{
+					"romsNm": "롯데시티호텔",
+					"romsZip": "34125",
+					"romsAddr": "대전 유성구 엑스포로123번길 33",
+					"romsDtlAddr": "대전 유성구 도룡동 4-30",
+					"romsRefadNo": "042-333-1000",
+					"romsScl": "304실[ 한실:304 , 양실:]",
+					"romsHmpgAddr": "http://www.lottecityhoteldaejeon.com/",
+					"romsSumm": "롯데시티호텔"
+				},
+				{
+					"romsNm": "호텔 ICC",
+					"romsZip": "34125",
+					"romsAddr": "대전 유성구 엑스포로123번길 55",
+					"romsDtlAddr": "대전 유성구 도룡동 4-29",
+					"romsRefadNo": "042-866-5000",
+					"romsScl": "90실[ 양실:90]",
+					"romsHmpgAddr": "",
+					"romsSumm": "호텔 ICC"
+				},
+				{
+					"romsNm": "테크노벨리호텔",
+					"romsZip": "34014",
+					"romsAddr": "대전 유성구 테크노중앙로 57",
+					"romsDtlAddr": "대전 유성구 관평동 796",
+					"romsRefadNo": "042-671-0500",
+					"romsScl": "74실[ 양실:74]",
+					"romsHmpgAddr": "http://www.hoteltechnovalley.com",
+					"romsSumm": "테크노벨리호텔"
+				},
+				{
+					"romsNm": "디엠프레스호텔",
+					"romsZip": "35222",
+					"romsAddr": "대전 서구 한밭대로570번길 29-20",
+					"romsDtlAddr": "대전 서구 월평동 516",
+					"romsRefadNo": "042-485-3030",
+					"romsScl": "66실[ 양실:66]",
+					"romsHmpgAddr": "http://www.theempresshotel.co.kr",
+					"romsSumm": "디엠프레스호텔"
+				},
+				{
+					"romsNm": "플라밍고호텔",
+					"romsZip": "34549",
+					"romsAddr": "대전 동구 동서대로1683번길 76-7",
+					"romsDtlAddr": "대전 동구 용전동 64-36",
+					"romsRefadNo": "042-639-5144",
+					"romsScl": "33실[ 양실:33]",
+					"romsHmpgAddr": "http://대전호텔플라밍고.urr.kr/",
+					"romsSumm": "플라밍고호텔"
+				},
+				{
+					"romsNm": "나봄 S&호텔",
+					"romsZip": "34014",
+					"romsAddr": "대전 유성구 테크노중앙로 69",
+					"romsDtlAddr": "대전 유성구 관평동 781",
+					"romsRefadNo": "042-936-1500",
+					"romsScl": "75실[ 한실:75 , 양실:]",
+					"romsHmpgAddr": "http://www.sandhotel.co.kr/",
+					"romsSumm": "구)(주)에스엔호텔"
+				},
+				{
+					"romsNm": "계룡스파텔",
+					"romsZip": "34186",
+					"romsAddr": "대전 유성구 온천로 81",
+					"romsDtlAddr": "대전 유성구 봉명동 539-1",
+					"romsRefadNo": "042-602-1111",
+					"romsScl": "",
+					"romsHmpgAddr": "http://www.jaekyungdan.mil.kr/sub/bokjiinfo/sisulinfo/spatel/default/default.jsp",
+					"romsSumm": "계룡스파텔"
+				},
+				{
+					"romsNm": "호텔스카이파크 대전1호점",
+					"romsZip": "34030",
+					"romsAddr": "대전 유성구 테크노중앙로 161",
+					"romsDtlAddr": "대전 유성구 용산동 579",
+					"romsRefadNo": "042-323-4500",
+					"romsScl": "100실[ 한실:100 , 양실:]",
+					"romsHmpgAddr": "http://www.skyparkhotel.com",
+					"romsSumm": "호텔스카이파크 대전1호점"
+				},
+				{
+					"romsNm": "호텔 스탕달",
+					"romsZip": "34186",
+					"romsAddr": "대전 유성구 온천북로 14",
+					"romsDtlAddr": "대전 유성구 봉명동 537-2",
+					"romsRefadNo": "042-822-1435",
+					"romsScl": "70실[ 양실:70]",
+					"romsHmpgAddr": "http://stendhalhotel.co.kr/",
+					"romsSumm": "호텔 스탕달"
+				},
+				{
+					"romsNm": "토요코인 대전정부청사앞",
+					"romsZip": "35209",
+					"romsAddr": "대전 서구 둔산중로134번길 13",
+					"romsDtlAddr": "대전 서구 둔산동 922",
+					"romsRefadNo": "042-545-1045",
+					"romsScl": "300실[ 양실:300]",
+					"romsHmpgAddr": "https://www.toyoko-inn.com/korea/",
+					"romsSumm": "토요코인 대전정부청사앞"
+				},
+				{
+					"romsNm": "호텔3월",
+					"romsZip": "35241",
+					"romsAddr": "대전 서구 둔산중로32번길 29",
+					"romsDtlAddr": "대전 서구 둔산동 1435",
+					"romsRefadNo": "042-825-8000",
+					"romsScl": "49실[ 양실:49]",
+					"romsHmpgAddr": "http://hotel-march.com/",
+					"romsSumm": "호텔3월"
+				},
+				{
+					"romsNm": "하늘정원 게스트하우스",
+					"romsZip": "34918",
+					"romsAddr": "대전 중구 보문로230번길 40",
+					"romsDtlAddr": "대전 중구 대흥동 447-11",
+					"romsRefadNo": "010-6399-7974",
+					"romsScl": "8실[ 양실:8]",
+					"romsHmpgAddr": "https://m.cafe.naver.com/moon7942.cafe",
+					"romsSumm": "하늘정원 게스트하우스"
+				},
+				{
+					"romsNm": "휴안당(외국인도시민박업)",
+					"romsZip": "34378",
+					"romsAddr": "대전 대덕구 한밭대로1003번길 42",
+					"romsDtlAddr": "대전 대덕구 오정동 658-20",
+					"romsRefadNo": "010-5629-7816",
+					"romsScl": "2실[ 양실:2]",
+					"romsHmpgAddr": "",
+					"romsSumm": "휴안당(외국인도시민박업)"
+				},
+				{
+					"romsNm": "아인게스트하우스",
+					"romsZip": "34199",
+					"romsAddr": "대전 유성구 상대동로36번길 7-1",
+					"romsDtlAddr": "대전 유성구 상대동 471-6",
+					"romsRefadNo": "0508-5044-2772",
+					"romsScl": "5실[ 한실: , 양실:]",
+					"romsHmpgAddr": "http://guesthouseayinn.modoo.at/",
+					"romsSumm": "아인게스트하우스"
+				},
+				{
+					"romsNm": "호텔루키",
+					"romsZip": "34928",
+					"romsAddr": "대전 중구 대흥로158번길 25",
+					"romsDtlAddr": "대전 중구 대흥동 31-7",
+					"romsRefadNo": "042-221-8383",
+					"romsScl": "35실[ 양실:35]",
+					"romsHmpgAddr": "",
+					"romsSumm": "호텔루키"
+				},
+				{
+					"romsNm": "베르겐호텔",
+					"romsZip": "34185",
+					"romsAddr": "대전 유성구 온천북로 65-9",
+					"romsDtlAddr": "대전 유성구 봉명동 690-6",
+					"romsRefadNo": "042-824-9277",
+					"romsScl": "48실[ 양실:48]",
+					"romsHmpgAddr": "",
+					"romsSumm": "베르겐호텔"
+				},
+				{
+					"romsNm": "퀸스타운모텔",
+					"romsZip": "0",
+					"romsAddr": "주소 확인 요망",
+					"romsDtlAddr": "주소 확인 요망",
+					"romsRefadNo": "042-822-8696",
+					"romsScl": "33실[ 양실:33]",
+					"romsHmpgAddr": "",
+					"romsSumm": "퀸스타운모텔"
+				},
+				{
+					"romsNm": "유성스테이호텔",
+					"romsZip": "34169",
+					"romsAddr": "대전 유성구 계룡로59번길 23",
+					"romsDtlAddr": "대전 유성구 봉명동 469-42",
+					"romsRefadNo": "042-824-1333",
+					"romsScl": "49실[ 한실:2 , 양실:47]",
+					"romsHmpgAddr": "",
+					"romsSumm": "유성스테이호텔"
+				},
+				{
+					"romsNm": "오백호모텔",
+					"romsZip": "34168",
+					"romsAddr": "대전 유성구 대학로 55-10",
+					"romsDtlAddr": "대전 유성구 봉명동 604-3",
+					"romsRefadNo": "042-824-0995",
+					"romsScl": "36실[ 한실:6 , 양실:30]",
+					"romsHmpgAddr": "",
+					"romsSumm": "오백호모텔"
+				},
+				{
+					"romsNm": "시네마이텔",
+					"romsZip": "34187",
+					"romsAddr": "대전 유성구 대학로 8",
+					"romsDtlAddr": "대전 유성구 봉명동 551-14",
+					"romsRefadNo": "042-824-6868",
+					"romsScl": "&nbsp;44실[ 한실:1 , 양실:43]",
+					"romsHmpgAddr": "",
+					"romsSumm": "시네마이텔"
+				},
+				{
+					"romsNm": "투엑스",
+					"romsZip": "34185",
+					"romsAddr": "대전 유성구 문화원로 116",
+					"romsDtlAddr": "대전 유성구 봉명동 641-7",
+					"romsRefadNo": "042-825-5701",
+					"romsScl": "40실[ 한실:1 , 양실:39]",
+					"romsHmpgAddr": "",
+					"romsSumm": "투엑스"
+				},
+				{
+					"romsNm": "드라마모텔",
+					"romsZip": "34168",
+					"romsAddr": "대전 유성구 온천서로 2",
+					"romsDtlAddr": "대전 유성구 봉명동 446-8",
+					"romsRefadNo": "042-824-3399",
+					"romsScl": "55실[ 한실:1 , 양실:54]",
+					"romsHmpgAddr": "",
+					"romsSumm": "드라마모텔"
+				},
+				{
+					"romsNm": "렉시호텔",
+					"romsZip": "34186",
+					"romsAddr": "대전 유성구 온천로107번길 37",
+					"romsDtlAddr": "대전 유성구 봉명동 540-5",
+					"romsRefadNo": "042-824-7738",
+					"romsScl": "35실[ 양실:35]",
+					"romsHmpgAddr": "",
+					"romsSumm": "렉시호텔"
+				},
+				{
+					"romsNm": "시나브로모텔",
+					"romsZip": "34185",
+					"romsAddr": "대전 유성구 온천북로59번길 9",
+					"romsDtlAddr": "대전 유성구 봉명동 658-3",
+					"romsRefadNo": "042-823-5832",
+					"romsScl": "42실[ 한실:4 , 양실:38]",
+					"romsHmpgAddr": "http://cafe.daum.net/sinabromotel",
+					"romsSumm": "시나브로모텔"
+				},
+				{
+					"romsNm": "파라곤모텔",
+					"romsZip": "34168",
+					"romsAddr": "대전 유성구 계룡로87번길 72",
+					"romsDtlAddr": "대전 유성구 봉명동 535-2",
+					"romsRefadNo": "042-825-4646",
+					"romsScl": "40실[ 한실:5 , 양실:35]",
+					"romsHmpgAddr": "www.iparagon.kr",
+					"romsSumm": "파라곤모텔"
+				},
+				{
+					"romsNm": "시애틀모텔",
+					"romsZip": "34186",
+					"romsAddr": "대전 유성구 온천북로 24",
+					"romsDtlAddr": "대전 유성구 봉명동 538-3",
+					"romsRefadNo": "042-824-3070",
+					"romsScl": "37실[ 한실:5 , 양실:32]",
+					"romsHmpgAddr": "",
+					"romsSumm": "시애틀모텔"
+				},
+				{
+					"romsNm": "더샾모텔",
+					"romsZip": "34185",
+					"romsAddr": "대전 유성구 온천북로 53",
+					"romsDtlAddr": "대전 유성구 봉명동 658-4",
+					"romsRefadNo": "042-822-0450",
+					"romsScl": "42실[ 양실:42]",
+					"romsHmpgAddr": "",
+					"romsSumm": "더샾모텔"
+				},
+				{
+					"romsNm": "맨하탄모텔",
+					"romsZip": "34185",
+					"romsAddr": "대전 유성구 온천북로33번길 7-14",
+					"romsDtlAddr": "대전 유성구 봉명동 633-3",
+					"romsRefadNo": "042-824-3311",
+					"romsScl": "36실[ 한실:6 , 양실:30]",
+					"romsHmpgAddr": "",
+					"romsSumm": "맨하탄모텔"
+				},
+				{
+					"romsNm": "블랙호텔",
+					"romsZip": "35300",
+					"romsAddr": "대전 서구 용문로 65",
+					"romsDtlAddr": "대전 서구 용문동 592-16",
+					"romsRefadNo": "042-535-0070",
+					"romsScl": "31실[ 양실:31]",
+					"romsHmpgAddr": "",
+					"romsSumm": "블랙호텔"
+				},
+				{
+					"romsNm": "잉카의태양",
+					"romsZip": "34185",
+					"romsAddr": "대전 유성구 온천북로 69",
+					"romsDtlAddr": "대전 유성구 봉명동 692-7",
+					"romsRefadNo": "042-826-6700",
+					"romsScl": "44실[ 양실:44]",
+					"romsHmpgAddr": "http://www.mokamotel.kr",
+					"romsSumm": "잉카의태양"
+				},
+				{
+					"romsNm": "하루",
+					"romsZip": "34185",
+					"romsAddr": "대전 유성구 온천동로65번길 42",
+					"romsDtlAddr": "대전 유성구 봉명동 683-1",
+					"romsRefadNo": "042-823-9433",
+					"romsScl": "39실[ 한실:4 , 양실:35]",
+					"romsHmpgAddr": "",
+					"romsSumm": "하루"
+				},
+				{
+					"romsNm": "피카소 모텔",
+					"romsZip": "34169",
+					"romsAddr": "대전 유성구 장대로 16-20",
+					"romsDtlAddr": "대전 유성구 봉명동 469-41",
+					"romsRefadNo": "042-825-3288",
+					"romsScl": "32실[ 한실:3 , 양실:29]",
+					"romsHmpgAddr": "",
+					"romsSumm": "피카소 모텔"
+				},
+				{
+					"romsNm": "뉴 큐피트 모텔",
+					"romsZip": "34169",
+					"romsAddr": "대전 유성구 장대로 16-18",
+					"romsDtlAddr": "대전 유성구 봉명동 469-2",
+					"romsRefadNo": "042-825-8505",
+					"romsScl": "32실[ 한실:1 , 양실:31]",
+					"romsHmpgAddr": "www.뉴큐피트모텔.kr",
+					"romsSumm": "뉴 큐피트 모텔"
+				},
+				{
+					"romsNm": "헤라모텔",
+					"romsZip": "34186",
+					"romsAddr": "대전 유성구 온천로107번길 23",
+					"romsDtlAddr": "대전 유성구 봉명동 540-7",
+					"romsRefadNo": "042-823-5775",
+					"romsScl": "36실[ 한실:2 , 양실:34]",
+					"romsHmpgAddr": "www.ihera.kr",
+					"romsSumm": "헤라모텔"
+				},
+				{
+					"romsNm": "발렌타인 모텔",
+					"romsZip": "34170",
+					"romsAddr": "대전 유성구 장대로 20-19",
+					"romsDtlAddr": "대전 유성구 장대동 285-11",
+					"romsRefadNo": "042-825-2100",
+					"romsScl": "36실[ 한실:8 , 양실:28]",
+					"romsHmpgAddr": "",
+					"romsSumm": "발렌타인 모텔"
+				},
+				{
+					"romsNm": "스파타워 모텔",
+					"romsZip": "34186",
+					"romsAddr": "대전 유성구 온천로107번길 40",
+					"romsDtlAddr": "대전 유성구 봉명동 694-1",
+					"romsRefadNo": "042-824-0637",
+					"romsScl": "35실[ 한실:3 , 양실:32]",
+					"romsHmpgAddr": "www.spatower.kr",
+					"romsSumm": "스파타워 모텔"
+				},
+				{
+					"romsNm": "오딧세이 모텔",
+					"romsZip": "34187",
+					"romsAddr": "대전 유성구 계룡로155번길 27",
+					"romsDtlAddr": "대전 유성구 봉명동 544-5",
+					"romsRefadNo": "042-822-7278",
+					"romsScl": "35실[ 한실:2 , 양실:33]",
+					"romsHmpgAddr": "htttp://www.odmotel.com",
+					"romsSumm": "오딧세이 모텔"
+				},
+				{
+					"romsNm": "워커힐모텔",
+					"romsZip": "35222",
+					"romsAddr": "대전 서구 월평로 47",
+					"romsDtlAddr": "대전 서구 월평동 507",
+					"romsRefadNo": "042-489-7720",
+					"romsScl": "50실[ 한실:10 , 양실:40]",
+					"romsHmpgAddr": "",
+					"romsSumm": "워커힐모텔"
+				},
+				{
+					"romsNm": "투에스(2S)모텔",
+					"romsZip": "35222",
+					"romsAddr": "대전 서구 월평로 53-9",
+					"romsDtlAddr": "대전 서구 월평동 512-1",
+					"romsRefadNo": "042-486-3333",
+					"romsScl": "43실[ 양실:43]",
+					"romsHmpgAddr": "",
+					"romsSumm": "투에스(2S)모텔"
+				},
+				{
+					"romsNm": "호텔어썸",
+					"romsZip": "35300",
+					"romsAddr": "대전 서구 도산로369번길 29",
+					"romsDtlAddr": "대전 서구 용문동 592-1",
+					"romsRefadNo": "042-524-0770",
+					"romsScl": "34실[ 양실:34]",
+					"romsHmpgAddr": "",
+					"romsSumm": "호텔어썸"
+				},
+				{
+					"romsNm": "이안레지던스 호텔",
+					"romsZip": "35233",
+					"romsAddr": "대전 서구 둔산로65번길 29",
+					"romsDtlAddr": "대전 서구 둔산동 1333",
+					"romsRefadNo": "042-487-3939",
+					"romsScl": "79실[ 양실:79]",
+					"romsHmpgAddr": " http://www.eanhotel.co.kr/main/main.htm",
+					"romsSumm": "이안레지던스 호텔"
+				},
+				{
+					"romsNm": "시카고모텔",
+					"romsZip": "34311",
+					"romsAddr": "대전 대덕구 신탄진동로23번길 65",
+					"romsDtlAddr": "대전 대덕구 신탄진동 140-10",
+					"romsRefadNo": "042-933-3888",
+					"romsScl": "37실[ 한실:7 , 양실:30]",
+					"romsHmpgAddr": "",
+					"romsSumm": "시카고모텔"
+				},
+				{
+					"romsNm": "거기모텔",
+					"romsZip": "34309",
+					"romsAddr": "대전 대덕구 신탄진동로7번안길 38",
+					"romsDtlAddr": "대전 대덕구 신탄진동 122-2",
+					"romsRefadNo": "042-933-5455",
+					"romsScl": "32실[ 한실:2 , 양실:30]",
+					"romsHmpgAddr": "",
+					"romsSumm": "거기모텔"
+				},
+				{
+					"romsNm": "로하스모텔",
+					"romsZip": "34311",
+					"romsAddr": "대전 대덕구 신탄진동로23번길 77",
+					"romsDtlAddr": "대전 대덕구 신탄진동 121-15",
+					"romsRefadNo": "042-933-0646",
+					"romsScl": "36실[ 양실:36]",
+					"romsHmpgAddr": "",
+					"romsSumm": "로하스모텔"
+				},
+				{
+					"romsNm": "두바이모텔",
+					"romsZip": "34310",
+					"romsAddr": "대전 대덕구 신탄진로790번길 46",
+					"romsDtlAddr": "대전 대덕구 신탄진동 157-22",
+					"romsRefadNo": "042-935-8897",
+					"romsScl": "36실[ 양실:36]",
+					"romsHmpgAddr": "",
+					"romsSumm": "두바이모텔"
+				},
+				{
+					"romsNm": "클래스모텔",
+					"romsZip": "34395",
+					"romsAddr": "대전 대덕구 한밭대로1149번길 15-6",
+					"romsDtlAddr": "대전 대덕구 중리동 411-5",
+					"romsRefadNo": "042-633-9271",
+					"romsScl": "42실[ 한실:4 , 양실:38]",
+					"romsHmpgAddr": "",
+					"romsSumm": "클래스모텔"
+				},
+				{
+					"romsNm": "모텔폴라리스",
+					"romsZip": "34550",
+					"romsAddr": "대전 동구 한밭대로1316번길 2",
+					"romsDtlAddr": "대전 동구 용전동 76-2",
+					"romsRefadNo": "042-635-7861",
+					"romsScl": "36실[ 양실:36]",
+					"romsHmpgAddr": "",
+					"romsSumm": "모텔폴라리스"
+				},
+				{
+					"romsNm": "해피타워",
+					"romsZip": "34550",
+					"romsAddr": "대전 동구 동서대로1725번길 22",
+					"romsDtlAddr": "대전 동구 용전동 76-3",
+					"romsRefadNo": "042-623-9993",
+					"romsScl": "32실[ 한실:2 , 양실:30]",
+					"romsHmpgAddr": "",
+					"romsSumm": "해피타워"
+				},
+				{
+					"romsNm": "J모텔",
+					"romsZip": "34550",
+					"romsAddr": "대전 동구 한밭대로1314번길 27",
+					"romsDtlAddr": "대전 동구 용전동 78-29",
+					"romsRefadNo": "042-639-5600",
+					"romsScl": "36실[ 한실:3 , 양실:33]",
+					"romsHmpgAddr": "",
+					"romsSumm": "J모텔"
+				},
+				{
+					"romsNm": "MVG 모텔",
+					"romsZip": "0",
+					"romsAddr": "주소 확인 요망",
+					"romsDtlAddr": "주소 확인 요망",
+					"romsRefadNo": "042-627-3535",
+					"romsScl": "38실[ 한실:2 , 양실:36]",
+					"romsHmpgAddr": "",
+					"romsSumm": "MVG 모텔"
+				},
+				{
+					"romsNm": "수 모텔",
+					"romsZip": "35233",
+					"romsAddr": "대전 서구 둔산로65번길 34",
+					"romsDtlAddr": "대전 서구 둔산동 1326",
+					"romsRefadNo": "042-472-1085",
+					"romsScl": "35실[ 한실:2 , 양실:33]",
+					"romsHmpgAddr": "",
+					"romsSumm": "수 모텔"
+				},
+				{
+					"romsNm": "시네마모텔",
+					"romsZip": "0",
+					"romsAddr": "주소 확인 요망",
+					"romsDtlAddr": "주소 확인 요망",
+					"romsRefadNo": "042-628-8686",
+					"romsScl": "32실[ 한실:2 , 양실:30]",
+					"romsHmpgAddr": "",
+					"romsSumm": "시네마모텔"
+				},
+				{
+					"romsNm": "보보스모텔",
+					"romsZip": "34550",
+					"romsAddr": "대전 동구 동서대로1725번길 10",
+					"romsDtlAddr": "대전 동구 용전동 54-7",
+					"romsRefadNo": "042-625-2100",
+					"romsScl": "35실[ 양실:35]",
+					"romsHmpgAddr": "",
+					"romsSumm": "보보스모텔"
+				},
+				{
+					"romsNm": "굿타임모텔",
+					"romsZip": "34549",
+					"romsAddr": "대전 동구 동서대로1705번길 67",
+					"romsDtlAddr": "대전 동구 용전동 67-5",
+					"romsRefadNo": "042-625-4877",
+					"romsScl": "32실[ 한실:2 , 양실:30]",
+					"romsHmpgAddr": "",
+					"romsSumm": "굿타임모텔"
+				},
+				{
+					"romsNm": "샾모텔",
+					"romsZip": "34550",
+					"romsAddr": "대전 동구 동서대로 1715-9",
+					"romsDtlAddr": "대전 동구 용전동 111-8",
+					"romsRefadNo": "042-637-9090",
+					"romsScl": "42실[ 한실:3 , 양실:39]",
+					"romsHmpgAddr": "http://www.sharpmotel.co.kr/index.asp",
+					"romsSumm": "샾모텔"
+				},
+				{
+					"romsNm": "리무진 모텔",
+					"romsZip": "0",
+					"romsAddr": "주소 확인 요망",
+					"romsDtlAddr": "주소 확인 요망",
+					"romsRefadNo": "042-621-1004",
+					"romsScl": "36실[ 한실:2 , 양실:34]",
+					"romsHmpgAddr": "",
+					"romsSumm": "리무진 모텔"
+				},
+				{
+					"romsNm": "세도나 모텔",
+					"romsZip": "34550",
+					"romsAddr": "대전 동구 동서대로1725번길 40",
+					"romsDtlAddr": "대전 동구 용전동 72-12",
+					"romsRefadNo": "042-621-9528",
+					"romsScl": "52실[ 한실:3 , 양실:49]",
+					"romsHmpgAddr": "",
+					"romsSumm": "세도나 모텔"
+				},
+				{
+					"romsNm": "W모텔",
+					"romsZip": "34186",
+					"romsAddr": "대전 유성구 온천북로 8",
+					"romsDtlAddr": "대전 유성구 봉명동 536-2",
+					"romsRefadNo": "042-825-1123",
+					"romsScl": "1실[ 한실:32 , 양실:70]",
+					"romsHmpgAddr": "",
+					"romsSumm": "W모텔"
+				},
+				{
+					"romsNm": "호텔저스트슬립유성온천점",
+					"romsZip": "34186",
+					"romsAddr": "대전 유성구 온천로101번길 10-1",
+					"romsDtlAddr": "대전 유성구 봉명동 540-10",
+					"romsRefadNo": "042-822-1750",
+					"romsScl": "49실[ 한실:4 , 양실:45]",
+					"romsHmpgAddr": "http://okqr.kr/6353",
+					"romsSumm": "호텔저스트슬립유성온천점"
+				},
+				{
+					"romsNm": "로데오 모텔",
+					"romsZip": "35229",
+					"romsAddr": "대전 서구 둔산로31번길 34",
+					"romsDtlAddr": " 대전 서구 둔산동 1008-1",
+					"romsRefadNo": "042-471-6868",
+					"romsScl": "45실[ 한실:4 , 양실:41]",
+					"romsHmpgAddr": "",
+					"romsSumm": "로데오 모텔"
+				},
+				{
+					"romsNm": "탑클라우드(대전점)",
+					"romsZip": "34186",
+					"romsAddr": "대전 유성구 온천로101번길 20",
+					"romsDtlAddr": "대전 유성구 봉명동 540-15",
+					"romsRefadNo": "",
+					"romsScl": "48실[ 양실:48]",
+					"romsHmpgAddr": "",
+					"romsSumm": "탑클라우드(대전점)"
+				},
+				{
+					"romsNm": "오늘",
+					"romsZip": "34185",
+					"romsAddr": "대전 유성구 온천북로 37",
+					"romsDtlAddr": "대전 유성구 봉명동 656-2",
+					"romsRefadNo": "042-823-5999",
+					"romsScl": "33실[ 한실:2 , 양실:31]",
+					"romsHmpgAddr": "",
+					"romsSumm": "오늘"
+				},
+				{
+					"romsNm": "런던파크",
+					"romsZip": "34187",
+					"romsAddr": "대전 유성구 계룡로141번길 13-11",
+					"romsDtlAddr": "대전 유성구 봉명동 548-5",
+					"romsRefadNo": "042-825-6063",
+					"romsScl": "34실[ 한실:5 , 양실:29]",
+					"romsHmpgAddr": "",
+					"romsSumm": "런던파크"
+				},
+				{
+					"romsNm": "케이쎄븐모텔",
+					"romsZip": "34168",
+					"romsAddr": "대전 유성구 계룡로87번길 65",
+					"romsDtlAddr": "대전 유성구 봉명동 440-28",
+					"romsRefadNo": "042-867-5775",
+					"romsScl": "38실[ 한실:6 , 양실:32]",
+					"romsHmpgAddr": "",
+					"romsSumm": "케이쎄븐모텔"
+				},
+				{
+					"romsNm": "스마일모텔",
+					"romsZip": "34187",
+					"romsAddr": "대전 유성구 계룡로141번길 8-15",
+					"romsDtlAddr": "대전 유성구 봉명동 543-11",
+					"romsRefadNo": "042-825-0266",
+					"romsScl": "35실[ 한실:8 , 양실:27]",
+					"romsHmpgAddr": "",
+					"romsSumm": "스마일모텔"
+				},
+				{
+					"romsNm": "자우리호텔도안신도시점",
+					"romsZip": "34187",
+					"romsAddr": "대전 유성구 계룡로 157",
+					"romsDtlAddr": "대전 유성구 봉명동 542-11",
+					"romsRefadNo": "042-823-8011",
+					"romsScl": "42실[ 한실:3 , 양실:39]",
+					"romsHmpgAddr": "",
+					"romsSumm": "자우리호텔도안신도시점"
+				},
+				{
+					"romsNm": "체리모텔",
+					"romsZip": "34186",
+					"romsAddr": "대전 유성구 온천북로 76",
+					"romsDtlAddr": "대전 유성구 봉명동 694-2",
+					"romsRefadNo": "042-823-2756",
+					"romsScl": "36실[ 한실:6 , 양실:30]",
+					"romsHmpgAddr": "",
+					"romsSumm": "체리모텔"
+				},
+				{
+					"romsNm": "파로스모텔",
+					"romsZip": "34184",
+					"romsAddr": "대전 유성구 한밭대로492번길 26-28",
+					"romsDtlAddr": "대전 유성구 봉명동 663-2",
+					"romsRefadNo": "042-824-0830",
+					"romsScl": "34실[ 한실:2 , 양실:32]",
+					"romsHmpgAddr": "",
+					"romsSumm": "파로스모텔"
+				},
+				{
+					"romsNm": "모아파크",
+					"romsZip": "34187",
+					"romsAddr": "대전 유성구 계룡로141번길 29-12",
+					"romsDtlAddr": "대전 유성구 봉명동 546-16",
+					"romsRefadNo": "042-824-0622",
+					"romsScl": "32실[ 한실:8 , 양실:24]",
+					"romsHmpgAddr": "",
+					"romsSumm": "모아파크"
+				},
+				{
+					"romsNm": "호텔드레",
+					"romsZip": "34187",
+					"romsAddr": "대전 유성구 계룡로123번길 12",
+					"romsDtlAddr": "대전 유성구 봉명동 548-1",
+					"romsRefadNo": "042-824-9944",
+					"romsScl": "34실[ 한실:5 , 양실:29]",
+					"romsHmpgAddr": "",
+					"romsSumm": "호텔드레"
+				},
+				{
+					"romsNm": "힐튼모텔",
+					"romsZip": "34170",
+					"romsAddr": "대전 유성구 문화원로6번길 114",
+					"romsDtlAddr": "대전 유성구 장대동 285-9",
+					"romsRefadNo": "042-825-1133",
+					"romsScl": "36실[ 한실:8 , 양실:28]",
+					"romsHmpgAddr": "",
+					"romsSumm": "힐튼모텔"
+				},
+				{
+					"romsNm": "캐슬모텔",
+					"romsZip": "34395",
+					"romsAddr": "대전 대덕구 중리남로 51",
+					"romsDtlAddr": "대전 대덕구 중리동 411-8",
+					"romsRefadNo": "042-635-3535",
+					"romsScl": "36실[ 양실:36]",
+					"romsHmpgAddr": "",
+					"romsSumm": "캐슬모텔"
+				},
+				{
+					"romsNm": "카펠라모텔",
+					"romsZip": "34395",
+					"romsAddr": "대전 대덕구 한밭대로1149번길 15-5",
+					"romsDtlAddr": "대전 대덕구 중리동 410-1",
+					"romsRefadNo": "042-625-0033",
+					"romsScl": "36실[ 양실:36]",
+					"romsHmpgAddr": "",
+					"romsSumm": "카펠라모텔"
+				},
+				{
+					"romsNm": "송암파크",
+					"romsZip": "34168",
+					"romsAddr": "대전 유성구 계룡로87번길 66",
+					"romsDtlAddr": "대전 유성구 봉명동 535-3",
+					"romsRefadNo": "042-824-4459",
+					"romsScl": "31실[ 한실:21 , 양실:10]",
+					"romsHmpgAddr": "",
+					"romsSumm": "송암파크"
+				},
+				{
+					"romsNm": "까펠라모텔",
+					"romsZip": "34184",
+					"romsAddr": "대전 유성구 한밭대로492번길 16-32",
+					"romsDtlAddr": "대전 유성구 봉명동 663-4",
+					"romsRefadNo": "042-823-0953",
+					"romsScl": "33실[ 양실:33]",
+					"romsHmpgAddr": "",
+					"romsSumm": "까펠라모텔"
+				},
+				{
+					"romsNm": "에이스모텔",
+					"romsZip": "34187",
+					"romsAddr": "대전 유성구 계룡로141번길 13-21",
+					"romsDtlAddr": "대전 유성구 봉명동 548-3",
+					"romsRefadNo": "042-823-0511",
+					"romsScl": "45실[ 양실:45]",
+					"romsHmpgAddr": "",
+					"romsSumm": "에이스모텔"
+				},
+				{
+					"romsNm": "아트모텔",
+					"romsZip": "34168",
+					"romsAddr": "대전 유성구 온천서로 32-12",
+					"romsDtlAddr": "대전 유성구 봉명동 440-31",
+					"romsRefadNo": "042-823-2988",
+					"romsScl": "33실[ 양실:33]",
+					"romsHmpgAddr": "",
+					"romsSumm": "아트모텔"
+				},
+				{
+					"romsNm": "도심속의하루",
+					"romsZip": "34185",
+					"romsAddr": "대전 유성구 온천북로33번길 8-27",
+					"romsDtlAddr": "대전 유성구 봉명동 653-4",
+					"romsRefadNo": "042-825-7510",
+					"romsScl": "33실[ 양실:33]",
+					"romsHmpgAddr": "",
+					"romsSumm": "도심속의하루"
+				},
+				{
+					"romsNm": "루이스",
+					"romsZip": "34168",
+					"romsAddr": "대전 유성구 온천서로 32-16",
+					"romsDtlAddr": "대전 유성구 봉명동 440-3",
+					"romsRefadNo": "042-826-0044",
+					"romsScl": "32실[ 양실:32]",
+					"romsHmpgAddr": "",
+					"romsSumm": "루이스"
+				},
+				{
+					"romsNm": "럭셔리모텔",
+					"romsZip": "34168",
+					"romsAddr": "대전 유성구 온천서로 30-10",
+					"romsDtlAddr": "대전 유성구 봉명동 441-17",
+					"romsRefadNo": "042-824-0652",
+					"romsScl": "45실[ 양실:45]",
+					"romsHmpgAddr": "",
+					"romsSumm": "럭셔리모텔"
+				},
+				{
+					"romsNm": "LOD호텔(엘오디)",
+					"romsZip": "34168",
+					"romsAddr": "대전 유성구 온천서로 30-15",
+					"romsDtlAddr": "대전 유성구 봉명동 440-25",
+					"romsRefadNo": "042-823-3620",
+					"romsScl": "42실[ 한실:6 , 양실:36]",
+					"romsHmpgAddr": "",
+					"romsSumm": "LOD호텔(엘오디)"
+				},
+				{
+					"romsNm": "호텔메이",
+					"romsZip": "34187",
+					"romsAddr": "대전 유성구 계룡로105번길 25",
+					"romsDtlAddr": "대전 유성구 봉명동 551-17",
+					"romsRefadNo": "042-823-4664",
+					"romsScl": "42실[ 양실:42]",
+					"romsHmpgAddr": "",
+					"romsSumm": "호텔메이"
+				},
+				{
+					"romsNm": "와또",
+					"romsZip": "34186",
+					"romsAddr": "대전 유성구 봉명동 538-13",
+					"romsDtlAddr": "대전 유성구 봉명동 538-13",
+					"romsRefadNo": "042-824-7777",
+					"romsScl": "35실[ 한실:2 , 양실:33]",
+					"romsHmpgAddr": "",
+					"romsSumm": "와또"
+				},
+				{
+					"romsNm": "케이(K)7피씨텔",
+					"romsZip": "34168",
+					"romsAddr": "대전 유성구 온천서로 32-24",
+					"romsDtlAddr": "대전 유성구 봉명동 440-7",
+					"romsRefadNo": "042-822-8820",
+					"romsScl": "24실[ 한실:10 , 양실:14]",
+					"romsHmpgAddr": "",
+					"romsSumm": "케이(K)7피씨텔"
+				},
+				{
+					"romsNm": "올리비아",
+					"romsZip": "34830",
+					"romsAddr": "대전 중구 동서대로1456번길 57",
+					"romsDtlAddr": "대전 중구 선화동 88-6",
+					"romsRefadNo": "042-257-9250~1",
+					"romsScl": "&nbsp;35실[ 양실:35]",
+					"romsHmpgAddr": "",
+					"romsSumm": "올리비아"
+				},
+				{
+					"romsNm": "콩모텔",
+					"romsZip": "0",
+					"romsAddr": "주소 확인 요망",
+					"romsDtlAddr": "주소 확인 요망",
+					"romsRefadNo": "042-221-4655",
+					"romsScl": "&nbsp;25실[ 양실:25]",
+					"romsHmpgAddr": "",
+					"romsSumm": "콩모텔"
+				},
+				{
+					"romsNm": "에이스모텔",
+					"romsZip": "34395",
+					"romsAddr": "대전 대덕구 한밭대로1149번길 25-11",
+					"romsDtlAddr": "대전 대덕구 중리동 411-6",
+					"romsRefadNo": "042-625-5954",
+					"romsScl": "29실[ 한실:1 , 양실:28]",
+					"romsHmpgAddr": "",
+					"romsSumm": "에이스모텔"
+				},
+				{
+					"romsNm": "호텔나인",
+					"romsZip": "34184",
+					"romsAddr": "대전 유성구 한밭대로492번길 16-26",
+					"romsDtlAddr": "대전 유성구 봉명동 663-3",
+					"romsRefadNo": "042-822-9701",
+					"romsScl": "33실[ 양실:33]",
+					"romsHmpgAddr": "",
+					"romsSumm": "호텔나인"
+				}
+			]
+		}
+	}
+}
